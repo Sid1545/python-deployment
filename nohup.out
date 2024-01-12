@@ -1,0 +1,27 @@
+ * Serving Flask app 'app'
+ * Debug mode: on
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator LinearRegression from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8010
+ * Running on http://10.0.2.203:8010
+Press CTRL+C to quit
+ * Restarting with watchdog (inotify)
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator LinearRegression from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+ * Detected change in '/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py', reloading
+ * Restarting with watchdog (inotify)
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator LinearRegression from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+103.213.202.11 - - [12/Jan/2024 04:41:32] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [12/Jan/2024 04:41:33] "GET /favicon.ico HTTP/1.1" 404 -
+103.213.202.11 - - [12/Jan/2024 04:42:23] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [12/Jan/2024 04:42:24] "GET / HTTP/1.1" 200 -
