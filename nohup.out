@@ -1,0 +1,210 @@
+ * Serving Flask app 'app'
+ * Debug mode: on
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator OneHotEncoder from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.0.2.203:8000
+Press CTRL+C to quit
+ * Restarting with stat
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator OneHotEncoder from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+103.213.202.11 - - [11/Jan/2024 05:39:14] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 05:39:16] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 05:39:30] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 05:39:31] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 05:39:37] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 05:39:38] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 05:39:38] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 05:39:39] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 05:39:39] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 05:39:40] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 05:40:36] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 05:40:37] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 05:49:44] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 05:57:46] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:00:50] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:00:51] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:00:52] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:00:52] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:03:02] "GET / HTTP/1.1" 200 -
+ * Detected change in '/home/ec2-user/.local/lib/python3.7/site-packages/flask/ctx.py', reloading
+ * Restarting with stat
+Traceback (most recent call last):
+  File "/home/ec2-user/Fire-Extinguisher/app.py", line 1, in <module>
+    from flask import Flask,render_template,url_for,request,redirect
+  File "/home/ec2-user/.local/lib/python3.7/site-packages/flask/__init__.py", line 19, in <module>
+    from jinja2 import Markup, escape
+ImportError: cannot import name 'Markup' from 'jinja2' (/home/ec2-user/.local/lib/python3.7/site-packages/jinja2/__init__.py)
+ * Serving Flask app 'app'
+ * Debug mode: on
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator OneHotEncoder from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.0.2.203:8000
+Press CTRL+C to quit
+ * Restarting with stat
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator OneHotEncoder from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+ * Serving Flask app 'app'
+ * Debug mode: on
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator OneHotEncoder from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.0.2.203:8000
+Press CTRL+C to quit
+ * Restarting with stat
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator OneHotEncoder from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+103.213.202.11 - - [11/Jan/2024 06:45:51] "GET / HTTP/1.1" 200 -
+ * Serving Flask app 'app'
+ * Debug mode: on
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator OneHotEncoder from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8000
+ * Running on http://10.0.2.203:8000
+Press CTRL+C to quit
+ * Restarting with stat
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator OneHotEncoder from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+103.213.202.11 - - [11/Jan/2024 06:46:07] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:46:12] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:46:12] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:46:13] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:46:13] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:46:13] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:46:13] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:50:13] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:50:38] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:50:39] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:50:39] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:50:56] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:50:57] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:50:57] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 06:50:58] "GET / HTTP/1.1" 200 -
+205.210.31.109 - - [11/Jan/2024 06:58:26] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [11/Jan/2024 07:00:10] "GET / HTTP/1.1" 200 -
+ * Detected change in '/home/ec2-user/.local/lib/python3.7/site-packages/joblib/externals/loky/backend/utils.py', reloading
+ * Restarting with stat
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator OneHotEncoder from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+ * Detected change in '/home/ec2-user/.local/lib/python3.7/site-packages/joblib/test/test_logger.py', reloading
+ * Restarting with stat
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator OneHotEncoder from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+103.213.202.11 - - [11/Jan/2024 07:20:16] "GET / HTTP/1.1" 200 -
+45.93.20.118 - - [11/Jan/2024 07:28:49] code 400, message Bad request syntax ('\x01\x01æ')
+45.93.20.118 - - [11/Jan/2024 07:28:49] "æ" HTTPStatus.BAD_REQUEST -
+162.142.125.220 - - [11/Jan/2024 07:31:26] "GET / HTTP/1.1" 200 -
+162.142.125.220 - - [11/Jan/2024 07:31:29] "GET / HTTP/1.1" 200 -
+162.142.125.220 - - [11/Jan/2024 07:31:29] code 505, message Invalid HTTP version (2.0)
+162.142.125.220 - - [11/Jan/2024 07:31:29] "PRI * HTTP/2.0" HTTPStatus.HTTP_VERSION_NOT_SUPPORTED -
+162.142.125.220 - - [11/Jan/2024 07:31:29] "GET /favicon.ico HTTP/1.1" 404 -
+ * Detected change in '/home/ec2-user/.local/lib/python3.7/site-packages/nvidia/__init__.py', reloading
+ * Restarting with stat
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator OneHotEncoder from version 1.1.2 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+205.210.31.16 - - [11/Jan/2024 12:13:28] "GET / HTTP/1.1" 200 -
+198.199.119.89 - - [11/Jan/2024 12:55:54] code 400, message Bad request syntax ('MGLNDD_3.228.8.135_8000')
+198.199.119.89 - - [11/Jan/2024 12:55:54] "MGLNDD_3.228.8.135_8000" HTTPStatus.BAD_REQUEST -
+184.105.139.97 - - [11/Jan/2024 13:08:00] "GET / HTTP/1.1" 200 -
+184.105.139.97 - - [11/Jan/2024 13:08:37] "GET /favicon.ico HTTP/1.1" 404 -
+184.105.139.105 - - [11/Jan/2024 13:08:59] "GET http://api.ipify.org/?format=json HTTP/1.1" 200 -
+184.105.139.113 - - [11/Jan/2024 13:09:22] "CONNECT www.shadowserver.org:443 HTTP/1.1" 404 -
+5.180.181.217 - - [11/Jan/2024 14:34:48] code 400, message Bad request version ('À\x14À')
+5.180.181.217 - - [11/Jan/2024 14:34:48] " u  qÈ=ÂÞºQÊ¹]\!âRáhX]NÑ_Jt  À/À+ÀÀÀÀ	ÀÀ" HTTPStatus.BAD_REQUEST -
+167.99.6.109 - - [11/Jan/2024 19:04:41] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x03oé]Â\x88\x10AT6\x82ÍvÕê\x8fÌoZZ/¤\x87©k\x88-å\x88ô$»\x9f\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+167.99.6.109 - - [11/Jan/2024 19:04:41] " {  woé]ÂAT6ÍvÕêÌoZZ/¤©k-åô$»  À/À+ÀÀÀÀ	ÀÀ" HTTPStatus.BAD_REQUEST -
+167.99.6.109 - - [11/Jan/2024 19:04:41] code 400, message Bad request version ('À\x14À')
+167.99.6.109 - - [11/Jan/2024 19:04:41] " {  w.1y	lêRôò{üQAï³ù¼Ð++°fì  À/À+ÀÀÀÀ	ÀÀ" HTTPStatus.BAD_REQUEST -
+167.99.6.109 - - [11/Jan/2024 19:04:41] "GET / HTTP/1.1" 200 -
+167.99.6.109 - - [11/Jan/2024 19:04:41] code 400, message Bad request version ('À\x14À')
+167.99.6.109 - - [11/Jan/2024 19:04:41] " {  wöYdõ¼ed òEü×:£%èW,ÿ{,Se÷/¸òdx  À/À+ÀÀÀÀ	ÀÀ" HTTPStatus.BAD_REQUEST -
+162.243.136.32 - - [11/Jan/2024 20:58:53] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00{\x01\x00\x00w\x03\x036\x91[9Ê\x15æå\x98øÿ(á\x05ó\x17\x9bRPEÐ¿S\x1aÆ\x8fÛæä%:O\x00\x00\x1aÀ/À+À\x11À\x07À\x13À')
+162.243.136.32 - - [11/Jan/2024 20:58:53] " {  w6[9Êæåøÿ(áóRPEÐ¿SÆÛæä%:O  À/À+ÀÀÀÀ	ÀÀ" HTTPStatus.BAD_REQUEST -
+205.210.31.170 - - [11/Jan/2024 21:46:03] "GET / HTTP/1.1" 200 -
+165.154.182.154 - - [11/Jan/2024 22:24:58] code 400, message Bad request version ('\x00\x9eÌ¨Ìª\x003\x00=\x00\x16À')
+165.154.182.154 - - [11/Jan/2024 22:24:58] " rI®:B¥`^mYÎèiI:¬Û§#79 ¾P¦ð¸ë§£Uäcº8@| àÐã9/÷<Èg 4Ì¨Ì©À/À0À+À,À	 Ì¨Ìª 3 = À" HTTPStatus.BAD_REQUEST -
+165.154.182.154 - - [11/Jan/2024 22:25:09] "GET / HTTP/1.1" 200 -
+165.154.182.154 - - [11/Jan/2024 22:25:09] "GET /favicon.ico HTTP/1.1" 404 -
+165.154.182.154 - - [11/Jan/2024 22:25:09] "GET /robots.txt HTTP/1.1" 404 -
+165.154.182.154 - - [11/Jan/2024 22:25:10] "GET /sitemap.xml HTTP/1.1" 404 -
+205.210.31.137 - - [11/Jan/2024 22:39:10] "GET / HTTP/1.1" 200 -
+94.102.61.48 - - [11/Jan/2024 23:04:55] "GET / HTTP/1.1" 200 -
+206.189.204.114 - - [12/Jan/2024 00:45:23] code 400, message Bad request syntax ('\x16\x03\x01\x00ê\x01\x00\x00æ\x03\x03îº\x83>\x0e')
+206.189.204.114 - - [12/Jan/2024 00:45:23] " ê  æîº>" HTTPStatus.BAD_REQUEST -
+142.4.218.114 - - [12/Jan/2024 02:54:57] "GET / HTTP/1.1" 200 -
+5.196.102.66 - - [12/Jan/2024 03:42:47] "GET /favicon.ico HTTP/1.1" 404 -
+64.62.197.108 - - [12/Jan/2024 04:39:21] "GET / HTTP/1.1" 200 -
+64.62.197.108 - - [12/Jan/2024 04:39:33] "GET /favicon.ico HTTP/1.1" 404 -
+64.62.197.119 - - [12/Jan/2024 04:39:37] "GET http://api.ipify.org/?format=json HTTP/1.1" 200 -
+64.62.197.112 - - [12/Jan/2024 04:39:40] "CONNECT www.shadowserver.org:443 HTTP/1.1" 404 -
+162.216.149.243 - - [12/Jan/2024 04:48:22] code 400, message Bad request version ('À\x13À')
+162.216.149.243 - - [12/Jan/2024 04:48:22] " î  ê²ï.»UÇ*cÈÔßÌXÔ>ÂÿJ%úR j^4æÖÄÊ1I%	Á"Ý!e2åt,Í)Xùù &À+À/À,À0Ì©Ì¨À	ÀÀ" HTTPStatus.BAD_REQUEST -
+162.216.149.243 - - [12/Jan/2024 04:48:23] code 400, message Bad HTTP/0.9 request type ('\x16\x03\x01\x00Ê\x01\x00\x00Æ\x03\x03KD\x0e¾ö\x9d¡¦yº\\*')
+162.216.149.243 - - [12/Jan/2024 04:48:23] " Ê  ÆKD¾ö¡¦yº\*" HTTPStatus.BAD_REQUEST -
