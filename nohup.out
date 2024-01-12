@@ -1,0 +1,89 @@
+ * Serving Flask app 'app'
+ * Debug mode: on
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.1 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+Address already in use
+Port 7000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+ * Serving Flask app 'app'
+ * Debug mode: on
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.1 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+Address already in use
+Port 7000 is in use by another program. Either identify and stop that program, or start the server with a different port.
+ * Serving Flask app 'app'
+ * Debug mode: on
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.1 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+WARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:8009
+ * Running on http://10.0.2.203:8009
+Press CTRL+C to quit
+ * Restarting with watchdog (inotify)
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.1 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+103.213.202.11 - - [12/Jan/2024 04:33:01] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [12/Jan/2024 04:33:01] "GET /static/styles.css HTTP/1.1" 404 -
+103.213.202.11 - - [12/Jan/2024 04:33:11] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [12/Jan/2024 04:33:12] "GET /static/styles.css HTTP/1.1" 404 -
+103.213.202.11 - - [12/Jan/2024 04:33:14] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [12/Jan/2024 04:33:14] "GET /static/styles.css HTTP/1.1" 404 -
+103.213.202.11 - - [12/Jan/2024 04:34:00] "GET / HTTP/1.1" 200 -
+103.213.202.11 - - [12/Jan/2024 04:34:01] "GET /static/styles.css HTTP/1.1" 404 -
+ * Detected change in '/usr/lib/python3.7/site-packages/pip/_vendor/pyparsing.py', reloading
+ * Restarting with watchdog (inotify)
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.1 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+ * Detected change in '/usr/lib/python3.7/site-packages/pip/_vendor/pyparsing.py', reloading
+ * Restarting with watchdog (inotify)
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.1 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+ * Detected change in '/usr/lib/python3.7/site-packages/pip/_vendor/pyparsing.py', reloading
+ * Restarting with watchdog (inotify)
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.1 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+ * Detected change in '/usr/lib/python3.7/site-packages/pip/_vendor/pyparsing.py', reloading
+ * Restarting with watchdog (inotify)
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.1 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+ * Detected change in '/usr/lib/python3.7/site-packages/pip/_vendor/pyparsing.py', reloading
+ * Restarting with watchdog (inotify)
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.1 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+ * Detected change in '/usr/lib/python3.7/site-packages/pip/_vendor/pyparsing.py', reloading
+ * Restarting with watchdog (inotify)
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.1 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+ * Detected change in '/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py', reloading
+ * Restarting with watchdog (inotify)
+/home/ec2-user/.local/lib/python3.7/site-packages/sklearn/base.py:338: UserWarning: Trying to unpickle estimator DecisionTreeClassifier from version 1.1.1 when using version 1.0.2. This might lead to breaking code or invalid results. Use at your own risk. For more info please refer to:
+https://scikit-learn.org/stable/modules/model_persistence.html#security-maintainability-limitations
+  UserWarning,
+ * Debugger is active!
+ * Debugger PIN: 103-382-951
+103.213.202.11 - - [12/Jan/2024 04:46:06] "POST /predict HTTP/1.1" 200 -
+103.213.202.11 - - [12/Jan/2024 04:46:07] "GET /static/styles.css HTTP/1.1" 404 -
